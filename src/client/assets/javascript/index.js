@@ -309,7 +309,7 @@ function renderRaceStartView(track, racers) {
 			</section>
 		</main>
 		<footer class="center white">
-        	© Copyright 2020. Developed by Jay Lin
+		© Copyright 2023. Developed by Haneen Alnuwaysir
     	</footer>
 	`
 }
